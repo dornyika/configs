@@ -22,7 +22,7 @@ set expandtab
 set softtabstop=3
 set shiftwidth=3
 set tabstop=3
-set numberwidth=6 "set line number column width
+set numberwidth=4 "set line number column width
 set scrolloff=4 "start scrolling when 6 lines from top or bottom
 set showbreak=↪
 set linebreak
