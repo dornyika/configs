@@ -1,2 +1,2 @@
 # Configs
-software configuration files
+My software configuration files.
